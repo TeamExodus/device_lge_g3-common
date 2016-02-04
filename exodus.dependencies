@@ -1,10 +1,10 @@
 [
   {
-    "repository": "Exodus-Kernels/lge_g3",
+    "repository": "TeamExodus/kernel_lge_g3",
     "target_path": "kernel/lge/g3"
   },
   {
-    "repository": "Exodus-Devices/qcom_common",
+    "repository": "TeamExodus/device_qcom_common",
     "target_path": "device/qcom/common"
   },
   {
