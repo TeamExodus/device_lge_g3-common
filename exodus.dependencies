@@ -6,9 +6,5 @@
   {
     "repository": "TeamExodus/device_qcom_common",
     "target_path": "device/qcom/common"
-  },
-  {
-    "repository": "usmcamgrimm/packages_apps_Snap",
-    "target_path": "packages/apps/Snap"
   }
 ]
